@@ -1,1 +1,3 @@
-baseurl:/ln_pages
+name:Lneoe
+markdown:redcarpet
+pygments:true
