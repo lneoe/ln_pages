@@ -1,4 +1,4 @@
 name: Lneoe
 markdown: redcarpet
 pygments: true
-baseurl:/ln_pages
+baseurl: /
